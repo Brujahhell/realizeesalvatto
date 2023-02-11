@@ -1,0 +1,246 @@
+.titulo {
+    height: 127px;
+    width: 715px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+.titulo1 {
+    font-size: 40px;
+    text-align: center;
+    color: #329AA6;
+    font-family: "Lato";
+    font-weight: bold;
+    margin-top: 10px;
+}
+.subtitulo {
+    font-size: 30px;
+    text-align: center;
+    color: #329AA6;
+    font-family: "Lato";
+    font-weight: bold;
+    margin-top: 20px;
+}
+.subtitulo2 {
+    font-size: 20px;
+    text-align: center;
+    color: #329AA6;
+    font-family: "Lato";
+}
+.subtitulo3 {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-family: "Lato";
+    font-weight: bold;
+}
+.imagem{
+    text-align: center;
+}
+.descrição {
+    margin-top: 15px;
+    font-size: 18px;
+    text-align: center;
+    font-family: "Lato";
+}
+.descrição2 {
+    font-size: 18px;
+    text-align: center;
+}
+.subtitulologo {
+    font-size: 50px;
+    text-align: center;
+    color: #329AA6;
+    font-family: "Lato";
+    font-weight: bold;
+}
+
+.tituloform {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-family: "Lato";
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.descricaoform {
+    font-size: 20px;
+    text-align: center;
+    color: #0EFF00;
+    font-family: "Lato";
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.descricaomarca {
+    width: 900px;
+    font-size: 30px;
+    text-align: center;
+    color: #0EFF00;
+    font-family: "Lato";
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.inputcss {
+    width: 90%;
+    border-radius: 13px;
+    height: 40px;
+}
+.inputcss2 {
+    padding-top: 10px;
+    width: 90%;
+    border-radius: 13px;
+    height: 100px;
+}
+textarea:-ms-input-placeholder  {
+    font-size:20px;
+}
+
+textarea::-webkit-input-placeholder {
+    font-size:20px;
+}
+
+textarea:-moz-placeholder {
+    font-size:20px;
+}
+
+input:-ms-input-placeholder  {
+    font-size:20px;
+}
+
+input::-webkit-input-placeholder {
+    font-size:20px;
+}
+
+input:-moz-placeholder {
+    font-size:20px;
+}
+
+.button {
+    background-color: #329AA6;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 15px;
+}
+.buttonform {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 15px;
+}
+
+.logors{
+    width: 600px;
+    padding: 10%;
+}
+.inputbox{
+    padding-bottom: 0px;
+    height: 60px;
+    margin-top: 20px;
+}
+.inputbox2 {
+    padding-bottom: 0px;
+    height: 120px;
+    margin-top: 20px;
+}
+.rodapé1 {
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    font-family: "Lato";
+    margin-top: 15%;
+    font-weight: 600;
+}
+.rodapé1a {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-family: "Lato";
+    margin-top: 5%;
+    font-weight: 600;
+}
+.rodapé2 {
+    font-size: 38px;
+    text-align: center;
+    color: white;
+    font-family: "Lato";
+    margin-top: 10%;
+    font-weight: 700;
+
+}
+.rodapé2a {
+    font-size: 38px;
+    text-align: center;
+    color: white;
+    font-family: "Lato";
+    margin-top: 5%;
+    font-weight: 700;
+
+}
+.detalhes {
+    color: #6EC1E4;
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.detalhes2 {
+    padding-bottom: 22px;
+}
+
+.titulologin {
+    color: #1a202c;
+    margin-top: 5%;
+    width: 715px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 40px;
+    text-align: center;
+    font-family: "Lato";
+}
+
+.titulologin2 {
+    color: #1a202c;
+    margin-top: 5%;
+    width: 715px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 60px;
+    text-align: center;
+    font-family: "Lato";
+    font-weight: 700;
+}
+
+.titulomarca {
+    font-size: 30px;
+    text-align: center;
+    font-family: "Lato";
+    font-weight: bold;
+    margin: 10px;
+    padding-top: 30px;
+}
+
+.segmentomarca{
+    font-size: 30px;
+    text-align: center;
+    color: #329AA6;
+    font-family: "Lato";
+    font-weight: bold;
+    margin: 15px;
+}
+.resumomarca{
+    font-size: 30px;
+    text-align: center;
+    color: #329AA6;
+    font-family: "Lato";
+    font-weight: bold;
+    margin: 15px 0px 0px 15px;
+
+}
