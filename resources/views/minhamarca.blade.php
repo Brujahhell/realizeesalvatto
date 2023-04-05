@@ -52,7 +52,7 @@
     </header>
     @foreach($registro as $registro)
         <section class="boxmarca">
-                <div><img class="logors" src="assets/logomarca/0001322023020363dc4edc97908.png"></div>
+                <div><img class="logors" style="padding: 30px" src="assets/logomarca/0001322023020363dc4edc97908.png"></div>
             <div>
                 <h2 class="titulomarca"> EMPRESA </h2>
                 <h2 class="titulomarca"> {{$registro->nome_empresa}} </h2>
